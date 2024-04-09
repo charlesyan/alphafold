@@ -3,6 +3,7 @@ chex==0.0.7
 dm-haiku==0.0.10
 docker==5.0.0
 immutabledict==2.0.0
+jax==0.4.23
 ml-collections==0.1.0
 numpy==1.24.3
 scipy==1.11.1
